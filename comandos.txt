@@ -1,0 +1,11 @@
+# Criação do script
+nano calculadora.sh
+
+# Edição do arquivo e inclusão do código da calculadora
+
+# Alteração das permissões do arquivo
+chmod 744 calculadora.sh
+
+# Execução do script
+./calculadora.sh
+
